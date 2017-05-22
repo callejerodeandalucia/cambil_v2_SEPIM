@@ -75,7 +75,7 @@ function geolocalizar(){
 			  cargarCategoria();
 		  };
 		  var errorFunction = function(){
-			  alert("Compruebe que tiene activada la ubicación del dispositivo y que se encuentra cerca del municipio: Cambil");
+			  alert("Compruebe que tiene activada la ubicación del dispositivo y que se encuentra cerca de los municipios: Cambil o Arbuniel");
 			  loading(false);
 		  };
 		  loading(true);	
